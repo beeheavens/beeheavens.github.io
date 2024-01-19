@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heavensbee"
+title                    : "Heavensbee Dev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Heavensbee"
-description              : "정리하면 공부가 조금 더 뿌듯하기 때문에"
+description              : "정리용 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "먹고 살자고 하는 거지"# overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/logo.jpeg"
+masthead_title           : "Heavensbee Dev" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,9 +108,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기록해 두면 공부가 좀 더 뿌듯하다"
   location         : "South Korea"
-  email            : "0heavensbee@gmail.com"
   links:
-    - label: "Email"
+    - label: "0heavensbee@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "0heavensbee@gmail.com"
     - label: "Website"
